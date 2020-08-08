@@ -20,7 +20,7 @@
     "assert": "^1.4.1",
     "babel-eslint": "^8.2.3",
     "babel-plugin-add-module-exports": "^0.2.1",
-    "bitsharesjs": "git+https://github.com/iobanker/bitsharesjs.git#9df4664f3452c9dbe96f9a2123d7d217e48e10ce",
+    "bitsharesjs": "git+https://github.com/iobanker/bitsharesjs.git#169e43afdab870b14faf04179eeda26fa41455a6",
     "browserify": "^16.2.2",
     "cross-env": "^5.0.1",
     "eslint": "^4.19.1",
@@ -33,7 +33,7 @@
     "uglify-js": "^3.3.10"
   },
   "peerDependencies": {
-    "bitsharesjs": "git+https://github.com/iobanker/bitsharesjs.git#9df4664f3452c9dbe96f9a2123d7d217e48e10ce"
+    "bitsharesjs": "git+https://github.com/iobanker/bitsharesjs.git#169e43afdab870b14faf04179eeda26fa41455a6"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=node node lib/src/app.js",
